@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<title>Ute's Bootstrap</title>
+<title>Hausaufgabe 1</title>
 </head>
 <body>
 <header>
